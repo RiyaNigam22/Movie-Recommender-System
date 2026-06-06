@@ -6,11 +6,7 @@ A Machine Learning-powered movie recommendation system that suggests similar mov
 
 ## 🚀 Live Demo
 
-*Add your Streamlit deployment link here after deployment.*
-
-Example:
-
-https://your-app-name.streamlit.app
+https://movie-recommender-system-n265fnkczssroguruhqdhu.streamlit.app/
 
 ---
 
@@ -138,9 +134,7 @@ Project - Real_Time_Prediction_Model
 
 ### Clone Repository
 
-```bash
-git clone <repository-url>
-```
+https://github.com/RiyaNigam22/Movie-Recommender-System
 
 ### Move Into Project Folder
 
@@ -156,9 +150,7 @@ pip install -r requirements.txt
 
 ### Launch Application
 
-```bash
-streamlit run app.py
-```
+https://movie-recommender-system-n265fnkczssroguruhqdhu.streamlit.app/
 
 ---
 
